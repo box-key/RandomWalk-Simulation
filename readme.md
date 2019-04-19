@@ -5,4 +5,4 @@
 3) Run Main.java
 
 ## Efficiency
-It takes about 1 minute to simulate 100 million random walks on a Windows 10 laptop computer with Intel Core i7 @ 2.30GHz and 8 GB RAM.
+It takes about 40 secs to simulate 100 million random walks on a Windows 10 laptop computer with Intel Core i7 @ 2.30GHz and 8 GB RAM.
